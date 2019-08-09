@@ -1,4 +1,4 @@
-<p align="center"
+﻿<p align="center"
 <br>
 <img src="media/bootcamp-2019.png" alt="Bootcamp Logo" height=300> <br>
 <a href="https://mybinder.org/v2/gh/GT-IDEaS/Bootcamp2019/master"><img src="https://mybinder.org/badge.svg"/></a>
@@ -115,6 +115,7 @@ appear under "My Desktops" in the Microsoft remote desktop client.
 * If you are on mac, you can use your terminal. To access this, open `finder` and type in "terminal"
 * this will allow you to follow along on your local machine, but you may need to install some packages
 
+Test
 
 ### Bootcamp Pre-Survey
 
